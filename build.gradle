@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'foxloader.dev'
 
 group = 'com.i8ux100'
-version = '1.0'
+version = '2.0-a1'
 
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
